@@ -1,0 +1,4 @@
+lib/crypto/sha1-sse2.lo: lib/crypto/sha1-sse2.S \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

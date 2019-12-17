@@ -1,0 +1,12 @@
+lib/libac/cpu/libaircrack_la-trampoline_x86.lo: \
+ lib/libac/cpu/trampoline_x86.c /usr/include/stdc-predef.h config.h \
+ /usr/lib/gcc/i686-linux-gnu/5/include/cpuid.h \
+ /home/setsu/oprek/c/aircrack-ng/include/aircrack-ng/cpu/trampoline.h
+
+/usr/include/stdc-predef.h:
+
+config.h:
+
+/usr/lib/gcc/i686-linux-gnu/5/include/cpuid.h:
+
+/home/setsu/oprek/c/aircrack-ng/include/aircrack-ng/cpu/trampoline.h:
